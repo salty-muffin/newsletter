@@ -4,9 +4,11 @@
   "scripts": {
     "dev": "maizzle serve",
     "build": "maizzle build",
-    "postinstall": "maizzle prepare"
+    "postinstall": "maizzle prepare",
+    "format": "prettier --write --experimental-cli emails/"
   },
   "dependencies": {
-    "@maizzle/framework": "latest"
+    "@maizzle/framework": "latest",
+    "prettier": "3.9.6"
   }
 }
