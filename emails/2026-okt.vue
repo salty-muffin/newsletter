@@ -16,7 +16,6 @@
 			</Section>
 			<!-- <Hr /> -->
 			<Section class="pt-6 pb-10 sm:pb-6">
-				<!-- <Img src="/public/gwtua_01.jpg" alt="" width="720" class="aspect-video" /> -->
 				<Text class="text-md">
 					<Link href="https://transmediale.de/en/programme/emergent-conditions"
 						><em>Emergent Conditions</em></Link
@@ -31,6 +30,8 @@
 					Opening: November 3, 6pm
 				</Text>
 			</Section>
+
+			<Img src="/public/gwtua_01.jpg" alt="" width="720" class="aspect-video" />
 
 			<Section class="pt-6 pb-10 sm:pb-6">
 				<Text class="text-md">
@@ -57,6 +58,8 @@
 					November 6, 6 – 8pm
 				</Text>
 			</Section>
+
+			<Img src="/public/acconw_02.jpg" alt="" width="720" class="aspect-video" />
 
 			<Section class="pt-6 pb-10 sm:pb-6">
 				<Text class="text-md">
