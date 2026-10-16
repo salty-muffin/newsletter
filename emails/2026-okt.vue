@@ -33,7 +33,7 @@
 				</Text>
 			</Section>
 
-			<Img src="/public/gwtua_01.jpg" alt="" width="720" class="my-8 aspect-video" />
+			<Img src="/public/gwtua_01.jpg" alt="Gravity Will Take Us All" width="720" class="my-8" />
 
 			<Section>
 				<Text class="text-md sm:text-sm leading-6 leading-6">
@@ -60,7 +60,12 @@
 				</Text>
 			</Section>
 
-			<Img src="/public/acconw_02.jpg" alt="" width="720" class="my-8 aspect-video" />
+			<Img
+				src="/public/acconw_02.jpg"
+				alt="A Cybernetic Conjuring of Norbert Wiener"
+				width="720"
+				class="my-8"
+			/>
 
 			<Section>
 				<Text class="text-md sm:text-sm leading-6">
