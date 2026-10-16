@@ -1,14 +1,14 @@
 <template>
 	<Layout class="bg-neutral-900">
 		<Container
-			class="max-w-180 px-8 py-10 sm:px-4 sm:py-6 bg-linear-[90deg,transparent_0%,black_5%,black_95%,transparent_100%] text-neutral-200"
+			class="max-w-180 px-8 py-10 sm:px-4 sm:py-6 text-neutral-200 bg-linear-[90deg,transparent_0%,black_5%,black_95%,transparent_100%]"
 		>
 			<Section class="pt-6 pb-6 sm:pt-4 sm:pb-4">
 				<!-- <Heading :level="2" class="mb-4 font-bold"> Dear friend or colleague, </Heading> -->
 
-				<Text class="text-lg"> Dear friend, colleague or bot, </Text>
+				<Text class="text-md"> Dear friend, colleague or bot, </Text>
 
-				<Text class="text-lg">
+				<Text class="text-md">
 					this newsletter has long been living a half-life in the twilight realm of yet to be
 					realized projects. It has finally been manifested to inform you of things to come this
 					November. I hope to see you at some, all, or somewhere else, too.
@@ -17,7 +17,7 @@
 			<!-- <Hr /> -->
 			<Section class="pt-6 pb-10 sm:pb-6">
 				<!-- <Img src="/public/gwtua_01.jpg" alt="" width="720" class="aspect-video" /> -->
-				<Text class="text-lg">
+				<Text class="text-md">
 					<Link href="https://transmediale.de/en/programme/emergent-conditions"
 						><em>Emergent Conditions</em></Link
 					><br />
@@ -25,7 +25,7 @@
 					Panter.
 				</Text>
 
-				<Text class="text-lg">
+				<Text class="text-md">
 					transmediale studio at silent green, Berlin<br />
 					November 3 – 8<br />
 					Opening: November 3, 6pm
@@ -33,7 +33,7 @@
 			</Section>
 
 			<Section class="pt-6 pb-10 sm:pb-6">
-				<Text class="text-lg">
+				<Text class="text-md">
 					<Link
 						href="https://thephotographersgallery.org.uk/whats-on/discussion-and-book-launch-ai-and-paradox-agency"
 						><em>Discussion and Book Launch: AI and the Paradox of Agency</em></Link
@@ -48,17 +48,18 @@
 						href="https://www.bildmuseet.umu.se/en/exhibitions/2026/ai-and-the-paradox-of-agency/"
 						>exhibition of the same name</Link
 					>
-					at Bildmuseet, Umeå (still on until January 17).
+					at Bildmuseet, Umeå (still on until January 17). <em>Gravity Will Take Us All</em> will be
+					screened as part of the event.
 				</Text>
 
-				<Text class="text-lg">
+				<Text class="text-md">
 					Photographers Gallery, London<br />
 					November 6, 6 – 8pm
 				</Text>
 			</Section>
 
 			<Section class="pt-6 pb-10 sm:pb-6">
-				<Text class="text-lg">
+				<Text class="text-md">
 					<Link href="https://www.kasselerdokfest.de/das-festival/ausstellung-monitoring"
 						><em>Freaking Caring Tired Still</em></Link
 					><br />
@@ -68,7 +69,7 @@
 					Stefan Panhans, Shirley Daria Nchang Zama
 				</Text>
 
-				<Text class="text-lg">
+				<Text class="text-md">
 					Kasseler Kunstverein<br />
 					November 18 – 21<br />
 					Opening: November 18, 8pm at KulturBahnhof Kassel, Südflügel
