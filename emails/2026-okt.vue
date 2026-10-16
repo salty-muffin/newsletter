@@ -1,7 +1,7 @@
 <template>
 	<Layout class="bg-neutral-900">
 		<Container
-			class="max-w-180 px-8 py-10 sm:px-4 sm:py-6 text-neutral-200 bg-linear-[90deg,transparent_0%,black_5%,black_95%,transparent_100%]"
+			class="max-w-180 px-10 py-10 sm:px-4 sm:py-6 text-neutral-200 bg-linear-[90deg,transparent_0%,black_5%,black_95%,transparent_100%]"
 		>
 			<Section>
 				<!-- <Heading :level="2" class="mb-4 font-bold"> Dear friend or colleague, </Heading> -->
