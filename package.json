@@ -10,5 +10,8 @@
   "dependencies": {
     "@maizzle/framework": "latest",
     "prettier": "3.9.6"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5"
   }
 }
