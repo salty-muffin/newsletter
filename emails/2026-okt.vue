@@ -94,8 +94,8 @@
 
 			<Section class="pt-10">
 				<Text class="text-sm leading-6 text-right"
-					>If you don't want to recieve this newsletter, just answer with "no", "stop" or any
-					refusal you like.</Text
+					>If you don't want to receive this newsletter, just answer with "no", "stop" or your
+					favourite refusal.</Text
 				>
 			</Section>
 		</Container>
