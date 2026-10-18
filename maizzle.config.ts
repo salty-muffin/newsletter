@@ -5,6 +5,14 @@ import { defineConfig } from '@maizzle/framework'
 const isBuild = process.argv.includes('build')
 
 export default defineConfig({
+	css: {
+		inline: {
+			// Keep explicit height="" attributes on <img>. Otherwise the inliner
+			// copies `height: auto` from h-auto over them, and blocked images lose
+			// their placeholder size in Thunderbird.
+			applyHeightAttributes: false,
+		},
+	},
 	url: {
 		base: isBuild
 			? {

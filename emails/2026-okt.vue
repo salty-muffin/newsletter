@@ -33,13 +33,15 @@
 				</Text>
 			</Section>
 
-			<Img
-				src="/public/gwtua_01.jpg"
-				alt="Gravity Will Take Us All"
-				width="640"
-				height="360"
-				class="my-8 h-auto bg-neutral-800 text-neutral-400 text-sm"
-			/>
+			<Section class="text-center">
+				<Img
+					src="/public/gwtua_01.jpg"
+					alt="Gravity Will Take Us All"
+					width="720"
+					height="405"
+					class="my-8 sm:my-6 h-auto bg-neutral-800 text-neutral-400 text-sm"
+				/>
+			</Section>
 
 			<Section>
 				<Text class="text-md sm:text-sm leading-6 leading-6">
@@ -66,13 +68,15 @@
 				</Text>
 			</Section>
 
-			<Img
-				src="/public/acconw_02.jpg"
-				alt="A Cybernetic Conjuring of Norbert Wiener"
-				width="640"
-				height="360"
-				class="my-8 h-auto bg-neutral-800 text-neutral-400 text-sm"
-			/>
+			<Section class="text-center">
+				<Img
+					src="/public/acconw_02.jpg"
+					alt="A Cybernetic Conjuring of Norbert Wiener"
+					width="720"
+					height="405"
+					class="my-8 sm:my-6 h-auto bg-neutral-800 text-neutral-400 text-sm"
+				/>
+			</Section>
 
 			<Section>
 				<Text class="text-md sm:text-sm leading-6">
