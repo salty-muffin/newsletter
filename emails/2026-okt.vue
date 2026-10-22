@@ -1,12 +1,14 @@
 <template>
-	<Layout class="bg-neutral-900">
+	<Layout class="bg-linear-to-b from-neutral-700 to-neutral-900">
 		<Container
 			class="max-w-180 px-10 pt-10 pb-0.25 sm:px-4 sm:pt-6 text-neutral-200 bg-linear-[90deg,transparent_0%,black_5%,black_95%,transparent_100%]"
 		>
 			<Section>
 				<!-- <Heading :level="2" class="mb-4 font-bold"> Dear friend or colleague, </Heading> -->
 
-				<Text class="text-md sm:text-sm leading-6"> Dear friend, colleague, or bot, </Text>
+				<Text class="text-md sm:text-sm leading-6">
+					Dear friend, colleague, or other cybernetic agent,
+				</Text>
 
 				<Text class="text-md sm:text-sm leading-6">
 					this newsletter has long been living a half-life in the twilight realm of yet to be
@@ -56,13 +58,13 @@
 					>
 					<Link href="https://hatjecantz.de/en/products/9783775763622"
 						><strong><em>AI and the Paradox of Agency</em></strong></Link
-					>, which accompanies the
+					>, edited by Sarah Cook, which accompanies the
 					<Link
 						href="https://www.bildmuseet.umu.se/en/exhibitions/2026/ai-and-the-paradox-of-agency/"
 						><strong>exhibition of the same name</strong></Link
 					>
-					at Bildmuseet, Umeå (still on until January 17!). <em>Gravity Will Take Us All</em> will
-					be screened as part of the event.
+					at Bildmuseet, Umeå (still on until January 17, 2027!).
+					<em>Gravity Will Take Us All</em> will be screened as part of the event.
 				</Text>
 
 				<Text class="text-md sm:text-sm leading-6 text-right">
@@ -102,7 +104,7 @@
 				</Text>
 			</Section>
 
-			<Hr class="bg-neutral-700 mb-12" />
+			<Hr class="bg-neutral-800 mb-12" />
 
 			<Section>
 				<Text class="text-md sm:text-sm leading-6">Ghostly greetings,<br />Zeno</Text>
