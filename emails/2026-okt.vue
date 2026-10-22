@@ -1,5 +1,5 @@
 <template>
-	<Layout class="bg-linear-to-b from-neutral-700 to-neutral-900">
+	<Layout class="bg-black bg-linear-to-b from-neutral-700 to-neutral-900">
 		<Container
 			class="max-w-180 px-10 pt-10 pb-0.25 sm:px-4 sm:pt-6 text-neutral-200 bg-linear-[90deg,transparent_0%,black_5%,black_95%,transparent_100%]"
 		>
