@@ -26,10 +26,13 @@
 					Anna-Lena Panter.
 				</Text>
 
-				<Text class="text-md sm:text-sm leading-6">
+				<Text class="text-md mb-0 sm:mb-2 sm:text-sm leading-6 text-right">
 					transmediale studio at Silent Green, Berlin<br />
-					November 3 – 8<br />
-					Opening: November 3, 6 pm
+					November 3 – 8
+				</Text>
+				<Text class="text-md mt-0 sm:mt-2 sm:text-sm leading-6">
+					Opening: November 3, 6 pm<br />
+					Artist Talk & séance: November 7, 6 pm
 				</Text>
 			</Section>
 
@@ -62,7 +65,7 @@
 					be screened as part of the event.
 				</Text>
 
-				<Text class="text-md sm:text-sm leading-6">
+				<Text class="text-md sm:text-sm leading-6 text-right">
 					Photographers Gallery, London<br />
 					November 6, 6 – 8 pm
 				</Text>
@@ -90,9 +93,11 @@
 					Seeger, Andrea Winkler & Stefan Panhans, Shirley Daria Nchang Zama.
 				</Text>
 
-				<Text class="text-md sm:text-sm leading-6">
+				<Text class="text-md mb-0 sm:mb-2 sm:text-sm leading-6 text-right">
 					Kasseler Kunstverein<br />
-					November 18 – 21<br />
+					November 18 – 21
+				</Text>
+				<Text class="text-md mt-0 sm:mt-2 sm:text-sm leading-6">
 					Opening: November 18, 8 pm at KulturBahnhof Kassel, Südflügel
 				</Text>
 			</Section>
