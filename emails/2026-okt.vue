@@ -34,14 +34,14 @@
 				</Text>
 				<Text class="text-md mt-0 sm:mt-2 sm:text-sm leading-6">
 					Opening: November 3, 6 pm<br />
-					Artist Talk & séance: November 7, 6 pm
+					Artist talk & séance: November 7, 6 pm
 				</Text>
 			</Section>
 
 			<Section class="text-center">
 				<Img
 					src="/public/gwtua_01.jpg"
-					alt="Gravity Will Take Us All"
+					alt="Still: Gravity Will Take Us All"
 					width="720"
 					height="405"
 					class="my-8 sm:my-6 h-auto bg-neutral-800 text-neutral-400 text-sm"
@@ -76,7 +76,7 @@
 			<Section class="text-center">
 				<Img
 					src="/public/acconw_02.jpg"
-					alt="A Cybernetic Conjuring of Norbert Wiener"
+					alt="Still: A Cybernetic Conjuring of Norbert Wiener"
 					width="720"
 					height="405"
 					class="my-8 sm:my-6 h-auto bg-neutral-800 text-neutral-400 text-sm"
@@ -92,7 +92,8 @@
 					</Link>
 					together with works by Veneta Androva, Magali Dougoud, Ileana Farabani, Binha Haase, Malin
 					Kuht, Jiayi Li, Ledermann & Marschner, Sarah Reva Mohr, Maria Nalbantova, Celia Pym, Antje
-					Seeger, Andrea Winkler & Stefan Panhans, Shirley Daria Nchang Zama.
+					Seeger, Andrea Winkler & Stefan Panhans, Shirley Daria Nchang Zama under the direction of
+					Marlene Denningmann.
 				</Text>
 
 				<Text class="text-md mb-0 sm:mb-2 sm:text-sm leading-6 text-right">
